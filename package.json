@@ -1,0 +1,23 @@
+{
+  "name": "three-tier-todo-app",
+  "version": "1.0.0",
+  "description": "A modern, full-stack three-tier To-Do List web application with glassmorphic UI",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "todo",
+    "three-tier",
+    "express",
+    "fullstack"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "tables": {
+    "tasks": [
+      {
+        "id": "32a1b8a3-748f-4822-803e-bd518261802d",
+        "title": "Explore the Three-Tier To-Do App",
+        "description": "Review how the Presentation, Logic, and Data layers seamlessly communicate.",
+        "priority": "high",
+        "category": "work",
+        "dueDate": "2026-09-23",
+        "completed": false,
+        "createdAt": "2026-09-21T21:48:26.702Z",
+        "updatedAt": "2026-09-21T21:48:26.702Z"
+      },
+      {
+        "id": "60d09f1e-7b28-444a-aabc-f674632ee100",
+        "title": "Test task filtering and search",
+        "description": "Try searching by keyword, filtering by priority, or switching categories.",
+        "priority": "medium",
+        "category": "personal",
+        "dueDate": "2026-09-25",
+        "completed": true,
+        "createdAt": "2026-09-21T20:48:26.702Z",
+        "updatedAt": "2026-09-21T21:48:26.702Z"
+      },
+      {
+        "id": "63d9ecbf-58dd-4ef4-9b86-5ee8c93747d9",
+        "title": "Schedule project architecture review",
+        "description": "Walk through endpoints, state management, and responsive glassmorphic styles.",
+        "priority": "urgent",
+        "category": "work",
+        "dueDate": "2026-09-22",
+        "completed": false,
+        "createdAt": "2026-09-21T21:48:26.702Z",
+        "updatedAt": "2026-09-21T21:48:26.702Z"
+      }
+    ]
+  }
+}
