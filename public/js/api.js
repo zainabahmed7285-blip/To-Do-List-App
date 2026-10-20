@@ -3,7 +3,7 @@
  * Encapsulates all asynchronous HTTP operations communicating with the Express Application Tier.
  */
 class TaskApiClient {
-  constructor(baseUrl = '/api/tasks') {
+  constructor(baseUrl = 'http://16.171.55.141:3000/api/tasks') {
     this.baseUrl = baseUrl;
   }
 
